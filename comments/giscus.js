@@ -11,7 +11,7 @@
         // 重建 script
         const script = document.createElement('script');
         script.src = 'https://giscus.app/client.js';
-        script.setAttribute('data-repo', 'Sn0wflakeQWQ/Pages');
+        script.setAttribute('data-repo', 'Sn0wflakeQWQ/sn0wflakeqwq.github.io');
         script.setAttribute('data-repo-id', 'R_kgDOSMLkPQ');
         script.setAttribute('data-category', 'Announcements');
         script.setAttribute('data-category-id', 'DIC_kwDOSMLkPc4C7qJO');
@@ -19,7 +19,7 @@
         script.setAttribute('data-strict', '0');
         script.setAttribute('data-reactions-enabled', '1');
         script.setAttribute('data-emit-metadata', '0');
-        script.setAttribute('data-input-position', 'bottom');
+        script.setAttribute('data-input-position', 'top');
         script.setAttribute('data-theme', 'preferred_color_scheme');
         script.setAttribute('data-lang', 'zh-CN');
         script.setAttribute('crossorigin', 'anonymous');
