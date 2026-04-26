@@ -7,13 +7,22 @@
       '/imgs/backgrounds/139434532_p0.png',
       '/imgs/backgrounds/140179187_p1.jpg',
       '/imgs/backgrounds/142519100_p0-edit.png',
-      '/imgs/backgrounds/143217557_p0-edit.png'
+      '/imgs/backgrounds/143217557_p0-edit.png',
+      '/imgs/backgrounds/109325945_p0.png',
+      '/imgs/backgrounds/93130508_p0.png',
+      '/imgs/backgrounds/141660916_p0.png',
+      '/imgs/backgrounds/124929021_p0.jpg',
+      '/imgs/backgrounds/130884759_p0.jpg',
+      '/imgs/backgrounds/126489228_p0.png'
     ];
     const darkImages = [
       '/imgs/backgrounds/125292748_1-edit.jpg',
       '/imgs/backgrounds/101475556_p0.jpg',
       '/imgs/backgrounds/111923744_p0.png',
-      '/imgs/backgrounds/133514262_p0-edit.jpg'
+      '/imgs/backgrounds/133514262_p0-edit.jpg',
+      '/imgs/backgrounds/140597615_p0.png',
+      '/imgs/backgrounds/112153191_p0.jpg',
+      '/imgs/backgrounds/98337514_p0.png'
     ];
     const randomOnThemeChange = true;
 
